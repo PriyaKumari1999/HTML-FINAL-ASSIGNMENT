@@ -1,0 +1,35 @@
+body{
+    background-color: #152238;
+}
+nav{
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    padding: 10px 0 20px 0;
+    display: flex;
+    justify-content: space-around;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+nav img{
+    
+    width: 50px;
+}
+strong{
+    background-color: green;
+    border-radius: 5px;
+    padding: 5px;
+    }
+h1, li{
+    text-align: none;
+    color: white;
+}
+footer{
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    text-align: center;
+}
+footer a,p{
+    color: white;
+}

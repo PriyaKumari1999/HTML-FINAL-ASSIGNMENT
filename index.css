@@ -1,0 +1,58 @@
+body{
+    background-image:url(img1.jpg);
+    color: white;
+}
+ fieldset {
+    border: none;
+    padding: 2 rem 0;
+}
+form{
+    width: 60vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+    padding-bottom: 2em;
+}
+h1{
+    text-align: center;
+    border:
+}
+nav{
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    padding: 10px 0 20px 0;
+    display: flex;
+    justify-content: space-around;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+nav img{
+    
+    width: 50px;
+}
+strong{
+    background-color: green;
+    border-radius: 5px;
+    padding: 5px;
+    }
+footer{
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    text-align: center;
+
+}
+footer a{
+    color: white;
+}
+input{
+    background-color: white;
+    border-radius: 15px;
+    border-style: none;
+    
+}
+
+
+
+

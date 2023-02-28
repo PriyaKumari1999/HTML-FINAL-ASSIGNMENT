@@ -1,0 +1,92 @@
+body{
+    background-color: #152238;
+}
+.basediv{
+    display:grid;
+    grid-template-columns: 500px 500px;
+    row-gap: 30px;
+    column-gap: 15px;
+}
+.cardio{
+    
+    
+    size-adjust: auto;
+    background-image: url(img3.jpg);
+    background-size: 400px;
+    width: 100%;
+    height: 250px
+}
+.card{
+    text-align: left;
+    color: white;
+    background-size: 400px;
+    width: 100%;
+    height: 250px;
+}
+.strength{
+    color:white;
+    text-align: left;
+    size-adjust: auto;
+    
+    background-size: 400px;
+    width: 100%;
+    height: 250px;
+    }
+.stren{
+    size-adjust: auto;
+    background-image: url(img4.jpg);
+    background-size: 450px;
+    width: 100%;
+    height: 250px
+}
+.group{
+    size-adjust: auto;
+    background-image: url(img5.jpg);
+    background-size: 450px;
+    width: 100%;
+    height: 250px
+}
+.training{
+    color:white;
+    text-align: left;
+    size-adjust: auto;
+    
+    background-size: 400px;
+    width: 100%;
+    height: 250px;
+
+}
+nav{
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    padding: 10px 0 20px 0;
+    display: flex;
+    justify-content: space-around;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+nav img{
+    
+    width: 50px;
+}
+strong{
+    background-color: green;
+    border-radius: 5px;
+    padding: 5px;
+    }
+h1{
+    text-align: center;
+    color: white;
+}
+footer{
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    text-align: center;
+
+}
+footer a,p{
+    color: white;
+}
+
