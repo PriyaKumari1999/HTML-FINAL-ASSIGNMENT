@@ -25,6 +25,14 @@ strong{
     border-radius: 5px;
     padding: 5px;
     }
+.loginpassword{
+    width: 60vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+    padding-bottom: 2em;
+    
+}
 h1,p,label{
     color: white;
 }
@@ -38,6 +46,8 @@ input{
     background-color: bisque;
     border-radius: 15px;
     border-style: none;
+    padding: 7px;
+    
     
 }
 footer{
