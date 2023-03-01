@@ -3,7 +3,7 @@ body{
 }
 .basediv{
     display:grid;
-    grid-template-columns: 500px 500px;
+    grid-template-columns: 1fr 1fr;
     row-gap: 30px;
     column-gap: 15px;
 }
@@ -14,48 +14,48 @@ body{
     
     size-adjust: auto;
     background-image: url(fats.jpg);
-    background-size: 500px;
+    background-size: 750px;
     width: 100%;
-    height: 330px
+    height: 450px
 }
 .card{
     text-align: left;
     color: white;
-    background-size: 400px;
+    background-size: 750px;
     width: 100%;
-    height: 250px;
+    height: 450px;
 }
 .strength{
     color:white;
     text-align: left;
     size-adjust: auto;
     
-    background-size: 400px;
+    background-size: 750px;
     width: 100%;
-    height: 250px;
+    height: 450px;
     }
 .stren{
     size-adjust: auto;
     background-image: url(protein.jpg);
-    background-size: 500px;
+    background-size: 750px;
     width: 100%;
-    height: 330px
+    height: 450px
 }
 .group{
     size-adjust: auto;
     background-image: url(carbohydrates.jpg);
-    background-size: 500px;
+    background-size: 750px;
     width: 100%;
-    height: 330px
+    height: 450px
 }
 .training{
     color:white;
     text-align: left;
     size-adjust: auto;
     
-    background-size: 400px;
+    background-size: 750px;
     width: 100%;
-    height: 250px;
+    height: 450px;
 
 }
 nav{

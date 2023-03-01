@@ -29,14 +29,11 @@ h1,p,label{
     color: white;
 }
 
-fieldset{
-    border: none;
-   
 
-}
 form{
-    margin-left: 300px;
+    margin-left: 420px;
 }
+
 input{
     background-color: bisque;
     border-radius: 15px;
@@ -48,14 +45,7 @@ footer{
     border-bottom: 2px solid white;
     padding: 5px 0 5px 0;
     text-align: center;
-    
-    
-
-
 }
 footer a{
     color: white;
-   
-    
-
 }
